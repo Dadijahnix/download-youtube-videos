@@ -23,4 +23,4 @@ video.download(destino)
 print("\n")
 
 print("\033[;32;1m" + nom + " Su Video fu descargado con exito." + "\033[0;m" + destino)
-print("\033[;35m" + "Busquelo en el 'Almacenamiento Interno de su Telefono.' + "\033[0;m")
+print("\033[;35m" + "Busquelo en el 'Almacenamiento Interno de su Telefono.'" + "\033[0;m")
